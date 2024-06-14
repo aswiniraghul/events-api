@@ -46,3 +46,5 @@ public class EventController {
         return new ResponseEntity(HttpStatus.NOT_FOUND);
     }
 }
+//  Swagger UI
+// worked with postman
